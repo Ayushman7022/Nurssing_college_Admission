@@ -1,0 +1,22 @@
+# Core LangChain ecosystem
+langchain==0.1.20
+langchain-community
+langchain-core
+langchain-google-genai
+
+# LLM tokenizer support (needed for summarization logic)
+transformers
+
+# Google Generative AI SDK
+google-generativeai
+
+# Streamlit for the frontend UI
+streamlit
+
+# Environment variable support
+python-dotenv
+
+# Other helpful utilities
+tqdm
+
+transformers>=4.41.0
